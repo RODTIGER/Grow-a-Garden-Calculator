@@ -2,12 +2,8 @@
 
 The ultimate **Roblox Grow a Garden Calculator** for players who want to maximize their in-game progress. Calculate plant values, pet XP growth, and browse detailed information about all plants and pets in the game.
 
-![Grow a Garden Calculator](logo.png)
-<img width="670" height="889" alt="image" src="https://github.com/user-attachments/assets/c05b026d-f6f9-4757-a704-578c6f0eeb20" />
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://www.growagardencalculator.in/)
-
-
 
 ## ✨ Features
 
@@ -43,27 +39,39 @@ The ultimate **Roblox Grow a Garden Calculator** for players who want to maximiz
 
 ## 🚀 Live Demo
 
-**🌐 Visit the Calculator:** [growagardenhelper.com](https://your-domain.com)
+**🌐 Visit the Calculator:** [growagardencalculator.in](https://www.growagardencalculator.in/)
+
+
 
 ### Quick Links
-- 🧮 [Plant Calculator](https://your-domain.com) - Main calculator tool
-- 🐾 [Pet XP Calculator](https://your-domain.com/pet-xp-calculator) - Pet progression tool
-- 🌿 [Plant Database](https://your-domain.com/plant-info) - Complete plant information
-- 🐕 [Pet Database](https://your-domain.com/pet-info) - All pets and abilities
-- 📞 [Contact](https://your-domain.com/contact) - Get in touch
+
+- 🧮 [Plant Calculator](https://www.growagardencalculator.in) - Main calculator tool
+
+- 🐾 [Pet XP Calculator](www.growagardencalculator.in/pet-xp-calculator) - Pet progression tool
+
+- 🌿 [Plant Database](www.growagardencalculator.in/plant-info) - Complete plant information
+
+- 🐕 [Pet Database](www.growagardencalculator.in/pet-info) - All pets and abilities
+
+- 📞 [Contact](www.growagardencalculator.in/contact) - Get in touch
 
 ## 📸 Screenshots
 
 ### 🧮 Plant Calculator Interface
-![Plant Calculator](https://via.placeholder.com/800x400/1a1a1a/00ff00?text=Plant+Calculator+Interface)
+![Plant Calculator](grow-a-garden-calculator.png)
+
+
 *Real-time plant value calculation with mutation support*
 
 ### 🐾 Pet XP Calculator
-![Pet XP Calculator](https://via.placeholder.com/800x400/1a1a1a/ff6b35?text=Pet+XP+Calculator)
+![Pet XP Calculator](Pet-XP-Calculator.png)
+
+
 *Track pet progression and optimize feeding strategies*
 
 ### 📱 Mobile Responsive Design
-![Mobile Design](https://via.placeholder.com/400x600/1a1a1a/4a90e2?text=Mobile+Responsive)
+![Mobile Design](Mobile-Responsive-Design.png)
+
 *Fully optimized for mobile gaming sessions*
 
 ## 🎮 Supported Game Content
@@ -167,6 +175,6 @@ By using this calculator, you agree to:
 
 **Made with ❤️ for the Roblox Grow a Garden community**
 
-[Website](https://your-domain.com) • [Discord](https://discord.gg/your-server) • [GitHub](https://github.com/yourusername/grow-a-garden-calculator) • [Support](mailto:contact@growagardenhelper.com)
+
 
 </div>
